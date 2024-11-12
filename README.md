@@ -43,5 +43,5 @@ image: "/images/askgithubissue.png"
 
 就是这么简单！
 
-[立即尝试 →](https://askgithubissue.justinleei.com)
+[立即尝试askgithubissue →](https://askgithubissue.justinleei.com)
 ![产品示意图](/images/askgithubissue-demo-lite.png)
